@@ -1,7 +1,7 @@
 ### 🙌 &nbsp;Info
 
-<img align="left" width="400px" alt="vectorzero" src="https://github-readme-stats.vercel.app/api/top-langs?username=vectorzero&show_icons=true&locale=en&layout=compact"/>
-<img align="right" width="400px" alt="vectorzero" src="https://github-readme-stats.vercel.app/api?username=vectorzero&show_icons=true&locale=en" />
+<p><img align="left" width="400px" alt="vectorzero" src="https://github-readme-stats.vercel.app/api/top-langs?username=vectorzero&show_icons=true&locale=en&layout=compact"/></p>
+<p><img align="right" width="400px" alt="vectorzero" src="https://github-readme-stats.vercel.app/api?username=vectorzero&show_icons=true&locale=en" /></p>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
