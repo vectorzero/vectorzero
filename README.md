@@ -1,6 +1,6 @@
 ### ⭐️ &nbsp;Github Star
 
-<img align="left" width="500px" alt="vectorzero" src="https://github-readme-stats.vercel.app/top-langs?username=vectorzero&count_private=true&show_icons=true"/>
+<img align="left" width="500px" alt="vectorzero" src="https://github-readme-stats.vercel.app/api/top-langs?username=vectorzero&show_icons=true&locale=en&layout=compact"/>
 <img align="right" width="500px" alt="vectorzero" src="https://github-readme-stats.vercel.app/api?username=vectorzero&show_icons=true&locale=en" />
 
 ### 🛠 &nbsp;Tech Stack
