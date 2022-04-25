@@ -1,4 +1,4 @@
-### 🙌 &nbsp;Info
+### 🙌 &nbsp;Base Info
 
 <p><img  width="400px" alt="vectorzero" src="https://github-readme-stats.vercel.app/api/top-langs?username=vectorzero&show_icons=true&locale=en&layout=compact"/>
 <img width="400px" alt="vectorzero" src="https://github-readme-stats.vercel.app/api?username=vectorzero&show_icons=true&locale=en" /></p>
