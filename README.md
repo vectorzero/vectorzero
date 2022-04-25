@@ -1,7 +1,7 @@
 ### ⭐️ &nbsp;Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vectorzero&count_private=true&show_icons=true"/>
-
+<img align="left" width="500px" alt="vectorzero" src="https://github-readme-stats.vercel.app/top-langs?username=vectorzero&count_private=true&show_icons=true"/>
+<img align="right" width="500px" alt="vectorzero" src="https://github-readme-stats.vercel.app/api?username=vectorzero&show_icons=true&locale=en" />
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
